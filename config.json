@@ -1,0 +1,7 @@
+{
+  "image_recall": true,
+  "cache_dir": "cache",
+  "cache_ttl_hours": 6,
+  "max_image_mb": 10,
+  "max_images_per_msg": 9
+}
